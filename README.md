@@ -1,9 +1,18 @@
 This project is about developing a web application for the user management system. It was done using the Laravel framework and React Vite library. 
+
+
+
 ## Install dependencies and run the backend
-To install laravel `composer global require laravel/installer`
-To create a new project `laravel new devkind-project`
-To migate the database `php artisan migrate`
+To install laravel `composer global require laravel/installer`<br />
+To create a new project `laravel new devkind-project`<br />
+To migrate the database `php artisan migrate`<br />
 To run server `php artisan serve`
+
+## Install dependencies and run the front end
+To install vite `npm create vite`. This command will ask to create a front-end folder.<br />
+Then need to change the directory to front-end folder using `cd 'name of the folder'`.<br />
+then `npm install` <br />
+at last To run server `npm run dev`
 
 ## About Laravel
 
